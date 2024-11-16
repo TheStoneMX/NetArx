@@ -113,16 +113,6 @@ The application will:
 
 ## 6. **Development Timeline**
 
-| Phase | Tasks | Duration |
-|-------|-------|----------|
-| 1. Requirements Gathering | Finalize requirements and system design | 1 week |
-| 2. Frontend Development | UI/UX design, React implementation | 2 weeks |
-| 3. Backend Development | API endpoints, video processing pipeline | 3 weeks |
-| 4. Model Integration | Train and integrate VGG19 model with attention mechanism | 2 weeks |
-| 5. Testing | Unit testing, integration testing, user acceptance testing | 2 weeks |
-| 6. Deployment | Cloud deployment, scalability testing | 1 week |
-| **Total** | | **11 weeks** |
-
 ---
 
 ## 7. **Risks and Mitigation**
@@ -143,9 +133,9 @@ The application will:
 ---
 
 ## 9. **Approvals**
-- Project Sponsor: [Name]
-- AI Architect: [Name]
-- Development Team Lead: [Name]
+- Project Sponsor: Rosenblatt.ai
+- AI Architect: Oscar A. Rangel
+- Development Team Lead: Oscar A. Rangel
 
 ---
 
@@ -155,5 +145,3 @@ The application will:
 - **Appendix C**: User manual and FAQ.
 
 --- 
-
-This document serves as a comprehensive guide for the development team to implement a robust deepfake detection system using biometric signals. Let me know if you need adjustments or more details!
